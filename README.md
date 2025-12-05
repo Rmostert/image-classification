@@ -4,9 +4,9 @@ In this project, we'll train an image classifier to recognize different species 
 
 The project is broken down into multiple steps:
 
-Load and preprocess the image dataset
-Train the image classifier on your dataset
-Use the trained classifier to predict image content
+* Load and preprocess the image dataset
+* Train the image classifier on your dataset
+* Use the trained classifier to predict image content
 
 This project uses PyTorch and the torchvision package; the Jupyter Notebook walks through the implementation of the image classifier and shows an example of the classifier's prediction on a test image. The classifier was also converted into a Python application, which could be run from the command line using "train.py" and "predict.py".
 
